@@ -20,5 +20,5 @@
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [GitHubGuides](https://guides.github.com/)
+- [YouTube](https://www.youtube.com/)
